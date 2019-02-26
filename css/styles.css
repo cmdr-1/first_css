@@ -1,0 +1,161 @@
+/*Tag Selectors*/
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.9rem;
+  line-height: 2;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  position: relative;
+  font-family: 'Tangerine', cursive;
+  font-size: 5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h2 {
+  font-family: 'Lato', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-size: 1.5rem;
+}
+
+a {
+  color: #11999E;
+}
+
+a:hover {
+  color: white;
+}
+
+/*p {
+  font-weight: bold;
+}
+*/
+hr {
+  margin: 75px auto 75px auto;
+  border-style: dotted none none;
+  width: 5%;
+  border-width: 8px;
+  color: silver;
+}
+
+td {
+  text-align: left;
+  padding: 15px;
+}
+
+/*Class Selectors*/
+
+.pro {
+  font-style: italic;
+}
+
+.top-container {
+  background-color: #e3fdfd;
+  position: relative;
+  padding: 100px 0 0;
+  bottom: 0;
+}
+
+.bottom-container {
+  background-color: #86BFBF;
+  position: relative;
+  padding: 30px 0 30px 0;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 20%;
+  top: 15%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 10%;
+  padding: 100px;
+}
+
+.round-img {
+  border-radius: 50%;
+}
+
+.portrait {
+  padding: 50px 0 50px 0;
+}
+
+.pc-icon {
+  width: 200px;
+  float: left;
+  margin-right: 30px;
+}
+
+.student-icon {
+  width: 200px;
+  float: right;
+  margin-left: 30px;
+}
+
+.running-img {
+  width: 300px;
+  float: right;
+  margin-right: 20%;
+}
+
+.portrait {
+  margin-top: 50px;
+}
+
+.subtitle {
+  font-weight: normal;
+}
+
+.contact-me {
+  width: 60%;
+  margin: auto;
+}
+
+.skill-row {
+  width: 60%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.footer-link {
+  padding: 0 5% 0 5%;
+  line-height: 5;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.copyright-tag {
+  font-family: Montserrat, sans-serif;
+  font-size: 0.8rem;
+  color: #EAF6F6;
+  line-height: 5;
+}
+
+.btn {
+  line-height: 10;
+}
+
+.skill-tree {
+  margin: auto;
+}
+
+.hobby-list {
+  text-align: left;
+  margin: auto;
+  width: 60%;
+}
+
+/*ID Selector*/
