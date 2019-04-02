@@ -61,7 +61,7 @@ td {
 }
 
 .top-container {
-  background-color: #e3fdfd;
+  background-color: #55A4F5;
   position: relative;
   padding: 100px 0 0;
   bottom: 0;
@@ -85,6 +85,9 @@ td {
   padding: 100px;
 }
 
+.mountain {
+  margin-bottom: -8px;
+}
 .round-img {
   border-radius: 50%;
 }
@@ -115,8 +118,12 @@ td {
   margin-top: 50px;
 }
 
+.myName {
+  color: #061367;
+}
 .subtitle {
   font-weight: normal;
+  color: #061367;
 }
 
 .contact-me {
